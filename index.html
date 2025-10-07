@@ -1,136 +1,199 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <title>Device & Service Status</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    :root { --ok:#1b8f3a; --warn:#c69000; --crit:#c62828; --unk:#666; --up:#1b8f3a; --down:#c62828; --unreach:#8e24aa; }
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:#f7f7f7; margin:0; padding:24px; }
+<meta charset="utf-8" />
+<title>Device & Service Status</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+    :root {
+      --ok:#1b8f3a;
+      --warn:#c69000;
+      --crit:#c62828;
+      --unk:#666;
+      --up:#1b8f3a;
+      --down:#c62828;
+      --unreach:#8e24aa;
+    }
+ 
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background:#f7f7f7;
+      margin:0;
+      padding:24px;
+    }
     h1 { margin:0 0 12px; text-align:center; }
     #updated { text-align:center; color:#555; margin-bottom:18px; font-size:0.9rem; }
     .grid { display:grid; gap:16px; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
-    .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,.08); padding:16px; }
+ 
+    /* Card and host styling */
+    .card {
+      background:#fff;
+      border-radius:12px;
+      box-shadow:0 2px 8px rgba(0,0,0,.08);
+      padding:16px;
+      border-left: 6px solid transparent;
+      transition: border-color 0.3s, box-shadow 0.3s;
+    }
+    .card.ok, .card.up { border-color: var(--ok); }
+    .card.warning { border-color: var(--warn); }
+    .card.critical, .card.down { border-color: var(--crit); }
+    .card.unreachable { border-color: var(--unreach); }
+    .card.unknown { border-color: var(--unk); }
+ 
     .host-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }
     .host-name { font-weight:700; font-size:1.05rem; word-break:break-all; }
     .sub { color:#666; font-size:0.85rem; margin-top:2px; }
-    .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:0.78rem; font-weight:700; line-height:1.6; color:#fff; }
-    .ok{background:var(--ok);} .up{background:var(--up);}
-    .warning{background:var(--warn);} .critical{background:var(--crit);}
-    .unknown{background:var(--unk);} .down{background:var(--down);} .unreachable{background:var(--unreach);}
+ 
+    /* Badge colors */
+    .badge {
+      display:inline-block;
+      padding:2px 8px;
+      border-radius:999px;
+      font-size:0.78rem;
+      font-weight:700;
+      line-height:1.6;
+      color:#fff;
+      text-transform:uppercase;
+      min-width:65px;
+      text-align:center;
+    }
+    .ok,.up{background:var(--ok);}
+    .warning{background:var(--warn);}
+    .critical,.down{background:var(--crit);}
+    .unknown{background:var(--unk);}
+    .unreachable{background:var(--unreach);}
+ 
+    /* Service list styling */
     ul.services { list-style:none; padding:0; margin:8px 0 0; }
-    ul.services li { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-top:1px solid #eee; gap:8px; }
+    ul.services li {
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:8px 0;
+      border-top:1px solid #eee;
+      gap:8px;
+      border-radius:6px;
+    }
+ 
+    /* subtle background tint for service rows by severity */
+    ul.services li.ok, ul.services li.up { background-color: rgba(27,143,58,0.05); }
+    ul.services li.warning { background-color: rgba(198,144,0,0.08); }
+    ul.services li.critical, ul.services li.down { background-color: rgba(198,40,40,0.08); }
+    ul.services li.unreachable { background-color: rgba(142,36,170,0.08); }
+    ul.services li.unknown { background-color: rgba(102,102,102,0.05); }
+ 
     .svc-name { font-weight:600; flex:1; word-break:break-word; }
     .svc-meta { color:#666; font-size:0.8rem; white-space:nowrap; }
     .empty { text-align:center; color:#666; margin-top:24px; }
-  </style>
+</style>
 </head>
 <body>
-  <h1>Device & Service Status</h1>
-  <div id="updated">Loading…</div>
-  <div id="grid" class="grid"></div>
-
-  <script>
-    function stateClass(s) {
-      const v = String(s || '').toUpperCase();
-      if (v === 'OK') return 'ok';
-      if (v === 'UP') return 'up';
-      if (v === 'WARNING') return 'warning';
-      if (v === 'CRITICAL') return 'critical';
-      if (v === 'DOWN') return 'down';
-      if (v === 'UNREACHABLE') return 'unreachable';
-      return 'unknown';
-    }
-    function fmt(ts) {
-      try { return new Date(ts).toLocaleString(); } catch { return String(ts || ''); }
-    }
-
-    // Turn flat records (hosts & services) into a host->services map
-    function groupByHost(records){
-      const hosts = new Map();
-      for (const r of records) {
-        const key = r.device || r.host || 'UNKNOWN';
-        if (!hosts.has(key)) hosts.set(key, { host: key, hostStatus: null, hostTs: null, address: r.address || '', services: [] });
-        const h = hosts.get(key);
-        if (r.service) {
-          h.services.push({ name: r.service, status: r.status, ts: r.timestamp });
-        } else {
-          h.hostStatus = r.status || h.hostStatus;
-          h.hostTs = r.timestamp || h.hostTs;
-          if (r.address) h.address = r.address;
-        }
+<h1>Device & Service Status</h1>
+<div id="updated">Loading…</div>
+<div id="grid" class="grid"></div>
+<script>
+  function stateClass(s) {
+    const v = String(s || '').toUpperCase();
+    if (v === 'OK') return 'ok';
+    if (v === 'UP') return 'up';
+    if (v === 'WARNING') return 'warning';
+    if (v === 'CRITICAL') return 'critical';
+    if (v === 'DOWN') return 'down';
+    if (v === 'UNREACHABLE') return 'unreachable';
+    return 'unknown';
+  }
+  function fmt(ts) {
+    try { return new Date(ts).toLocaleString(); } catch { return String(ts || ''); }
+  }
+ 
+  function groupByHost(records){
+    const hosts = new Map();
+    for (const r of records) {
+      const key = r.device || r.host || 'UNKNOWN';
+      if (!hosts.has(key))
+        hosts.set(key, { host: key, hostStatus: null, hostTs: null, address: r.address || '', services: [] });
+      const h = hosts.get(key);
+      if (r.service) {
+        h.services.push({ name: r.service, status: r.status, ts: r.timestamp });
+      } else {
+        h.hostStatus = r.status || h.hostStatus;
+        h.hostTs = r.timestamp || h.hostTs;
+        if (r.address) h.address = r.address;
       }
-      // sort services per host (worst first)
-      const sev = s => ({CRITICAL:0, DOWN:0, UNREACHABLE:1, WARNING:2, UNKNOWN:3, OK:4, UP:4}[String(s).toUpperCase()] ?? 5);
-      for (const h of hosts.values()) h.services.sort((a,b)=> sev(a.status)-sev(b.status) || a.name.localeCompare(b.name));
-      // sort hosts by worst status then name
-      const arr = Array.from(hosts.values());
-      const worst = h => {
-        const pool = [h.hostStatus, ...h.services.map(s=>s.status)].filter(Boolean).map(x=>String(x).toUpperCase());
-        if (pool.includes('CRITICAL') || pool.includes('DOWN')) return 0;
-        if (pool.includes('UNREACHABLE')) return 1;
-        if (pool.includes('WARNING')) return 2;
-        if (pool.includes('UNKNOWN')) return 3;
-        return 4; // OK/UP or none
-      };
-      arr.sort((a,b)=> worst(a)-worst(b) || a.host.localeCompare(b.host));
-      return arr;
     }
-
-    async function loadData() {
-      const url = 'status.json?ts=' + Date.now(); // cache-buster
-      const resp = await fetch(url, { cache: 'no-store' });
-      if (!resp.ok) throw new Error('Fetch failed: ' + resp.status);
-      const data = await resp.json();
-
-      const grouped = groupByHost(Array.isArray(data) ? data : []);
-      const grid = document.getElementById('grid');
-      const updated = document.getElementById('updated');
-
-      if (!grouped.length) {
-        grid.innerHTML = '<div class="empty">No data.</div>';
-        updated.textContent = 'Last updated: ' + new Date().toLocaleString();
-        return;
-      }
-
-      grid.innerHTML = grouped.map(h => {
-        const hostBadge = h.hostStatus ? `<span class="badge ${stateClass(h.hostStatus)}">${String(h.hostStatus).toUpperCase()}</span>` : '';
-        const addr = h.address ? `<div class="sub">${h.address}</div>` : '';
-        const hostTs = h.hostTs ? `<div class="sub">Host check: ${fmt(h.hostTs)}</div>` : '';
-        const svcList = h.services.length
-          ? `<ul class="services">` + h.services.map(s => `
-               <li>
-                 <span class="svc-name">${s.name}</span>
-                 <span class="svc-meta">${fmt(s.ts)}</span>
-                 <span class="badge ${stateClass(s.status)}">${String(s.status).toUpperCase()}</span>
-               </li>
-             `).join('') + `</ul>`
-          : `<div class="sub">No services reported.</div>`;
-
-        return `
-          <div class="card">
-            <div class="host-head">
-              <div>
-                <div class="host-name">${h.host}</div>
-                ${addr}
-                ${hostTs}
-              </div>
-              ${hostBadge}
-            </div>
-            ${svcList}
-          </div>
-        `;
-      }).join('');
-
+    const sev = s => ({CRITICAL:0, DOWN:0, UNREACHABLE:1, WARNING:2, UNKNOWN:3, OK:4, UP:4}[String(s).toUpperCase()] ?? 5);
+    for (const h of hosts.values())
+      h.services.sort((a,b)=> sev(a.status)-sev(b.status) || a.name.localeCompare(b.name));
+    const arr = Array.from(hosts.values());
+    const worst = h => {
+      const pool = [h.hostStatus, ...h.services.map(s=>s.status)].filter(Boolean).map(x=>String(x).toUpperCase());
+      if (pool.includes('CRITICAL') || pool.includes('DOWN')) return 0;
+      if (pool.includes('UNREACHABLE')) return 1;
+      if (pool.includes('WARNING')) return 2;
+      if (pool.includes('UNKNOWN')) return 3;
+      return 4;
+    };
+    arr.sort((a,b)=> worst(a)-worst(b) || a.host.localeCompare(b.host));
+    return arr;
+  }
+ 
+  async function loadData() {
+    const url = 'status.json?ts=' + Date.now();
+    const resp = await fetch(url, { cache: 'no-store' });
+    if (!resp.ok) throw new Error('Fetch failed: ' + resp.status);
+    const data = await resp.json();
+ 
+    const grouped = groupByHost(Array.isArray(data) ? data : []);
+    const grid = document.getElementById('grid');
+    const updated = document.getElementById('updated');
+ 
+    if (!grouped.length) {
+      grid.innerHTML = '<div class="empty">No data.</div>';
       updated.textContent = 'Last updated: ' + new Date().toLocaleString();
+      return;
     }
-
-    // initial + periodic refresh
-    loadData().catch(err => {
-      document.getElementById('grid').innerHTML = `<div class="empty">Error loading data: ${err.message}</div>`;
-      document.getElementById('updated').textContent = 'Last updated: ' + new Date().toLocaleString();
-    });
-    setInterval(loadData, 30000); // refresh every 30s
-  </script>
+ 
+    grid.innerHTML = grouped.map(h => {
+      const hostCls = h.hostStatus ? stateClass(h.hostStatus) : 'unknown';
+      const hostBadge = h.hostStatus ? `<span class="badge ${hostCls}">${String(h.hostStatus).toUpperCase()}</span>` : '';
+      const addr = h.address ? `<div class="sub">${h.address}</div>` : '';
+      const hostTs = h.hostTs ? `<div class="sub">Host check: ${fmt(h.hostTs)}</div>` : '';
+      const svcList = h.services.length
+        ? `<ul class="services">` + h.services.map(s => {
+            const scls = stateClass(s.status);
+            return `
+<li class="${scls}">
+<span class="svc-name">${s.name}</span>
+<span class="svc-meta">${fmt(s.ts)}</span>
+<span class="badge ${scls}">${String(s.status).toUpperCase()}</span>
+</li>`;
+          }).join('') + `</ul>`
+        : `<div class="sub">No services reported.</div>`;
+ 
+      return `
+<div class="card ${hostCls}">
+<div class="host-head">
+<div>
+<div class="host-name">${h.host}</div>
+      ${addr}
+      ${hostTs}
+</div>
+    ${hostBadge}
+</div>
+  ${svcList}
+</div>`;
+    }).join('');
+ 
+    updated.textContent = 'Last updated: ' + new Date().toLocaleString();
+  }
+ 
+  loadData().catch(err => {
+    document.getElementById('grid').innerHTML =
+      `<div class="empty">Error loading data: ${err.message}</div>`;
+    document.getElementById('updated').textContent =
+      'Last updated: ' + new Date().toLocaleString();
+  });
+  setInterval(loadData, 30000);
+</script>
 </body>
 </html>
