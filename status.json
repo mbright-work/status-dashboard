@@ -1,0 +1,9 @@
+[
+  {
+    "device": "hb-monitor01",
+    "status": "OK",
+    "address": "127.0.0.1",
+    "notification_type": "PROBLEM",
+    "timestamp": "2025-10-07T17:54:27Z"
+  }
+]
