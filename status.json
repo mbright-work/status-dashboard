@@ -8,7 +8,7 @@
     "device": "BWA - Becton Dickinson",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:37Z"
+    "timestamp": "2025-10-09T08:00:37Z"
   },
   {
     "device": "BWA - Becton Dickinson",
@@ -30,7 +30,7 @@
   {
     "device": "HANA - Breakthru Beverages",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:26Z"
+    "timestamp": "2025-10-09T07:59:26Z"
   },
   {
     "device": "HANA - Breakthru Beverages",
@@ -53,7 +53,7 @@
     "device": "HANA - Caleffi",
     "service": "Check HANA Caleffi LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:41Z"
+    "timestamp": "2025-10-09T07:57:41Z"
   },
   {
     "device": "HANA - Caleffi",
@@ -70,7 +70,7 @@
   {
     "device": "HANA - Cheney Brothers",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:25Z"
+    "timestamp": "2025-10-09T07:57:25Z"
   },
   {
     "device": "HANA - Cheney Brothers",
@@ -82,18 +82,18 @@
     "device": "HANA - Cheney Brothers",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:27Z"
+    "timestamp": "2025-10-09T07:58:27Z"
   },
   {
     "device": "HANA - Coopidrogas",
     "status": "UP",
-    "timestamp": "2025-10-09T07:43:01Z"
+    "timestamp": "2025-10-09T07:58:01Z"
   },
   {
     "device": "HANA - Coopidrogas",
     "service": "Check Coopidrogas LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:30Z"
+    "timestamp": "2025-10-09T07:57:30Z"
   },
   {
     "device": "HANA - Coopidrogas",
@@ -105,7 +105,7 @@
     "device": "HANA - Coopidrogas",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:59Z"
+    "timestamp": "2025-10-09T07:57:59Z"
   },
   {
     "device": "HANA - JANM DEV",
@@ -116,7 +116,7 @@
     "device": "HANA - JANM DEV",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:30Z"
+    "timestamp": "2025-10-09T07:57:30Z"
   },
   {
     "device": "HANA - JANM DRC",
@@ -127,7 +127,7 @@
     "device": "HANA - JANM DRC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:39Z"
+    "timestamp": "2025-10-09T08:00:39Z"
   },
   {
     "device": "HANA - JANM Prod",
@@ -155,7 +155,7 @@
     "device": "HANA - Liverpool",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:01Z"
+    "timestamp": "2025-10-09T07:59:01Z"
   },
   {
     "device": "HANA - MSU - CCDC",
@@ -183,13 +183,13 @@
     "device": "HANA - MSU - MSUDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:41Z"
+    "timestamp": "2025-10-09T08:00:41Z"
   },
   {
     "device": "HANA - MSU - MSUDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:22Z"
+    "timestamp": "2025-10-09T07:58:22Z"
   },
   {
     "device": "HANA - PepsiCo FDC",
@@ -200,13 +200,13 @@
     "device": "HANA - PepsiCo FDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:50Z"
+    "timestamp": "2025-10-09T08:00:50Z"
   },
   {
     "device": "HANA - PepsiCo FDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:42Z"
+    "timestamp": "2025-10-09T07:58:42Z"
   },
   {
     "device": "HANA - PepsiCo LDC",
@@ -223,7 +223,7 @@
     "device": "HANA - PepsiCo LDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:25Z"
+    "timestamp": "2025-10-09T07:58:25Z"
   },
   {
     "device": "HANA - PepsiCo NABW PDC",
@@ -240,7 +240,7 @@
     "device": "HANA - PepsiCo NABW PDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:12Z"
+    "timestamp": "2025-10-09T07:59:12Z"
   },
   {
     "device": "HANA - PepsiCo NABW RDC",
@@ -257,7 +257,7 @@
     "device": "HANA - PepsiCo NABW RDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:30Z"
+    "timestamp": "2025-10-09T07:58:30Z"
   },
   {
     "device": "HANA - PepsiCo PDC",
@@ -268,7 +268,7 @@
     "device": "HANA - PepsiCo PDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:39Z"
+    "timestamp": "2025-10-09T07:58:39Z"
   },
   {
     "device": "HANA - PepsiCo PDC",
@@ -285,13 +285,13 @@
     "device": "HANA - PepsiCo RDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:42Z"
+    "timestamp": "2025-10-09T08:00:42Z"
   },
   {
     "device": "HANA - PepsiCo RDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:36Z"
+    "timestamp": "2025-10-09T07:57:36Z"
   },
   {
     "device": "HANA - PepsiCo SDC",
@@ -308,7 +308,7 @@
     "device": "HANA - PepsiCo SDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:16Z"
+    "timestamp": "2025-10-09T07:58:16Z"
   },
   {
     "device": "HANA - Queensland Rail",
@@ -336,7 +336,7 @@
     "device": "HANA - UGI",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:31Z"
+    "timestamp": "2025-10-09T07:58:31Z"
   },
   {
     "device": "HANA - UGL",
@@ -364,7 +364,7 @@
     "device": "HPC - Diamond Light Source",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:32Z"
+    "timestamp": "2025-10-09T07:57:32Z"
   },
   {
     "device": "HPC - SMN",
@@ -375,18 +375,18 @@
     "device": "HPC - SMN",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:50Z"
+    "timestamp": "2025-10-09T08:00:50Z"
   },
   {
     "device": "HPC - SMN",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:15Z"
+    "timestamp": "2025-10-09T07:59:15Z"
   },
   {
     "device": "HWO - Apetito UK",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:32Z"
+    "timestamp": "2025-10-09T07:57:32Z"
   },
   {
     "device": "HWO - Apetito UK",
@@ -404,7 +404,7 @@
     "device": "HWO - Apetito UK",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:07Z"
+    "timestamp": "2025-10-09T07:58:07Z"
   },
   {
     "device": "HWO - Caleffi",
@@ -432,19 +432,19 @@
   {
     "device": "HWO - Colgate",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:59Z"
+    "timestamp": "2025-10-09T08:01:59Z"
   },
   {
     "device": "HWO - Colgate",
     "service": "Check Colgate HX LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:18Z"
+    "timestamp": "2025-10-09T07:58:18Z"
   },
   {
     "device": "HWO - Colgate",
     "service": "Check Colgate LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:20Z"
+    "timestamp": "2025-10-09T08:02:20Z"
   },
   {
     "device": "HWO - Colgate",
@@ -461,13 +461,13 @@
   {
     "device": "HWO - Colgate-Swidnica",
     "status": "UP",
-    "timestamp": "2025-10-09T07:43:18Z"
+    "timestamp": "2025-10-09T07:58:18Z"
   },
   {
     "device": "HWO - Colgate-Swidnica",
     "service": "Check Colgate-Swidnica LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:44Z"
+    "timestamp": "2025-10-09T08:00:44Z"
   },
   {
     "device": "HWO - Colgate-Swidnica",
@@ -479,7 +479,7 @@
     "device": "HWO - Colgate-Swidnica",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:33Z"
+    "timestamp": "2025-10-09T07:57:33Z"
   },
   {
     "device": "HWO - MISMO",
@@ -496,7 +496,7 @@
     "device": "HWO - MISMO",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:46Z"
+    "timestamp": "2025-10-09T07:57:46Z"
   },
   {
     "device": "HWO - MISMO",
@@ -507,7 +507,7 @@
   {
     "device": "HWO - OIZ PRD",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:34Z"
+    "timestamp": "2025-10-09T07:57:34Z"
   },
   {
     "device": "HWO - OIZ PRD",
@@ -535,13 +535,13 @@
     "device": "HWO - PORR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:40Z"
+    "timestamp": "2025-10-09T07:57:40Z"
   },
   {
     "device": "HWO - PORR",
     "service": "Check PORR AG LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:04Z"
+    "timestamp": "2025-10-09T07:58:04Z"
   },
   {
     "device": "HWO - PORR",
@@ -558,7 +558,7 @@
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
     "service": "Check GCG - Woodside Houston DR LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:49Z"
+    "timestamp": "2025-10-09T07:57:49Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
@@ -570,7 +570,7 @@
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:49Z"
+    "timestamp": "2025-10-09T07:58:49Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
@@ -581,7 +581,7 @@
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
     "service": "Check GCG - Woodside Houston Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:45Z"
+    "timestamp": "2025-10-09T08:00:45Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
@@ -598,13 +598,13 @@
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:32Z"
+    "timestamp": "2025-10-09T07:59:32Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
     "service": "Check GCG Woodside Perth LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:30Z"
+    "timestamp": "2025-10-09T07:57:30Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
@@ -627,7 +627,7 @@
     "device": "LMS-DCIM - GCG - Woodside Sydney",
     "service": "Check GCG - Woodside Sydney LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:14Z"
+    "timestamp": "2025-10-09T07:59:14Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Sydney",
@@ -639,7 +639,7 @@
     "device": "LMS-DCIM - GCG - Woodside Sydney",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:00Z"
+    "timestamp": "2025-10-09T07:59:00Z"
   },
   {
     "device": "SAPHEC - Garanti Bank",
@@ -650,7 +650,7 @@
     "device": "SAPHEC - Garanti Bank",
     "service": "Check Garanti Bank LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:07Z"
+    "timestamp": "2025-10-09T07:59:07Z"
   },
   {
     "device": "SAPHEC - Garanti Bank",
@@ -662,7 +662,7 @@
     "device": "SAPHEC - Garanti Bank",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:05Z"
+    "timestamp": "2025-10-09T07:59:05Z"
   },
   {
     "device": "SAPHEC - IGDAS",
@@ -673,7 +673,7 @@
     "device": "SAPHEC - IGDAS",
     "service": "Check IGDAS LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:05Z"
+    "timestamp": "2025-10-09T07:58:05Z"
   },
   {
     "device": "SAPHEC - IGDAS",
@@ -685,12 +685,12 @@
     "device": "SAPHEC - IGDAS",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:50Z"
+    "timestamp": "2025-10-09T07:58:50Z"
   },
   {
     "device": "SAPHEC - IGDAS DR",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:37Z"
+    "timestamp": "2025-10-09T07:57:37Z"
   },
   {
     "device": "SAPHEC - IGDAS DR",
@@ -719,19 +719,19 @@
     "device": "SAPHEC - LTL",
     "service": "Check LTL LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:23Z"
+    "timestamp": "2025-10-09T07:59:23Z"
   },
   {
     "device": "SAPHEC - LTL",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:52Z"
+    "timestamp": "2025-10-09T08:00:52Z"
   },
   {
     "device": "SAPHEC - LTL",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:26Z"
+    "timestamp": "2025-10-09T07:59:26Z"
   },
   {
     "device": "SAPHEC - MV Lab",
@@ -754,7 +754,7 @@
     "device": "SAPHEC - MV Lab",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:29Z"
+    "timestamp": "2025-10-09T07:59:29Z"
   },
   {
     "device": "StorageSupport - Helaba",
@@ -771,7 +771,7 @@
     "device": "StorageSupport - Helaba",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:47Z"
+    "timestamp": "2025-10-09T08:00:47Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
@@ -782,13 +782,13 @@
     "device": "TS HANA - AmeriGas - Tekpark",
     "service": "Check AmeriGas - TekPark LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:07Z"
+    "timestamp": "2025-10-09T07:59:07Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:35Z"
+    "timestamp": "2025-10-09T07:57:35Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
@@ -805,24 +805,24 @@
     "device": "TS HANA - AmeriGas - Trooper",
     "service": "Check AmeriGas - Trooper LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:50Z"
+    "timestamp": "2025-10-09T07:58:50Z"
   },
   {
     "device": "TS HANA - AmeriGas - Trooper",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:54Z"
+    "timestamp": "2025-10-09T07:57:54Z"
   },
   {
     "device": "TS HANA - AmeriGas - Trooper",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:49Z"
+    "timestamp": "2025-10-09T08:00:49Z"
   },
   {
     "device": "TS HANA - Avet Pharmaceuticals",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:18Z"
+    "timestamp": "2025-10-09T08:01:18Z"
   },
   {
     "device": "TS HANA - Avet Pharmaceuticals",
@@ -840,7 +840,7 @@
     "device": "TS HANA - Avet Pharmaceuticals",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:17Z"
+    "timestamp": "2025-10-09T07:59:17Z"
   },
   {
     "device": "TruScale - 365IT",
@@ -851,19 +851,19 @@
     "device": "TruScale - 365IT",
     "service": "Check 365IT LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:07Z"
+    "timestamp": "2025-10-09T07:59:07Z"
   },
   {
     "device": "TruScale - 365IT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:45Z"
+    "timestamp": "2025-10-09T07:57:45Z"
   },
   {
     "device": "TruScale - 365IT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:08Z"
+    "timestamp": "2025-10-09T08:00:08Z"
   },
   {
     "device": "TruScale - 365IT Cloudreso",
@@ -902,36 +902,36 @@
   {
     "device": "TruScale - ALSO Meschede",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:10Z"
+    "timestamp": "2025-10-09T07:59:10Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "service": "Check Also Meschede LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:13Z"
+    "timestamp": "2025-10-09T07:58:13Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:54Z"
+    "timestamp": "2025-10-09T08:00:54Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:12Z"
+    "timestamp": "2025-10-09T07:59:12Z"
   },
   {
     "device": "TruScale - ARUS",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:04Z"
+    "timestamp": "2025-10-09T08:01:04Z"
   },
   {
     "device": "TruScale - ARUS",
     "service": "Check ARUS LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:03Z"
+    "timestamp": "2025-10-09T08:01:03Z"
   },
   {
     "device": "TruScale - ARUS",
@@ -954,7 +954,7 @@
     "device": "TruScale - AT DATA",
     "service": "Check AT DATA LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:50Z"
+    "timestamp": "2025-10-09T08:00:50Z"
   },
   {
     "device": "TruScale - AT DATA",
@@ -1000,7 +1000,7 @@
     "device": "TruScale - AXA France",
     "service": "Check AXA France LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:23Z"
+    "timestamp": "2025-10-09T07:58:23Z"
   },
   {
     "device": "TruScale - AXA Germany",
@@ -1011,18 +1011,18 @@
     "device": "TruScale - AXA Germany",
     "service": "Check AXA Germany LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:47Z"
+    "timestamp": "2025-10-09T07:57:47Z"
   },
   {
     "device": "TruScale - AddOn Systems",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:39Z"
+    "timestamp": "2025-10-09T07:57:39Z"
   },
   {
     "device": "TruScale - AddOn Systems",
     "service": "Check AddOn LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:31Z"
+    "timestamp": "2025-10-09T08:00:31Z"
   },
   {
     "device": "TruScale - AddOn Systems",
@@ -1034,12 +1034,12 @@
     "device": "TruScale - AddOn Systems",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:52Z"
+    "timestamp": "2025-10-09T08:00:52Z"
   },
   {
     "device": "TruScale - Axians ICT",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:05Z"
+    "timestamp": "2025-10-09T08:00:05Z"
   },
   {
     "device": "TruScale - Axians ICT",
@@ -1074,7 +1074,7 @@
     "device": "TruScale - Baionity GmbH",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:47:37Z"
+    "timestamp": "2025-10-09T07:57:37Z"
   },
   {
     "device": "TruScale - Baionity GmbH",
@@ -1091,7 +1091,7 @@
     "device": "TruScale - Bently Nevada",
     "service": "Check Bently Nevada LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:54Z"
+    "timestamp": "2025-10-09T08:00:54Z"
   },
   {
     "device": "TruScale - Bently Nevada",
@@ -1154,7 +1154,7 @@
   {
     "device": "TruScale - Cloud Server Australia",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:31Z"
+    "timestamp": "2025-10-09T08:01:31Z"
   },
   {
     "device": "TruScale - Cloud Server Australia",
@@ -1172,7 +1172,7 @@
     "device": "TruScale - Cloud Server Australia",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:32Z"
+    "timestamp": "2025-10-09T07:57:32Z"
   },
   {
     "device": "TruScale - CloudConnect",
@@ -1183,7 +1183,7 @@
     "device": "TruScale - CloudConnect",
     "service": "Check CloudConnect LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:41Z"
+    "timestamp": "2025-10-09T07:57:41Z"
   },
   {
     "device": "TruScale - CloudConnect",
@@ -1195,30 +1195,30 @@
     "device": "TruScale - CloudConnect",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:03Z"
+    "timestamp": "2025-10-09T07:58:03Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:40Z"
+    "timestamp": "2025-10-09T07:59:40Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "service": "Check Combiphar DR LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:41Z"
+    "timestamp": "2025-10-09T07:59:41Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:50Z"
+    "timestamp": "2025-10-09T07:57:50Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:38Z"
+    "timestamp": "2025-10-09T07:57:38Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
@@ -1229,19 +1229,19 @@
     "device": "TruScale - Combiphar Prod",
     "service": "Check Combiphar Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:37Z"
+    "timestamp": "2025-10-09T08:01:37Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:56Z"
+    "timestamp": "2025-10-09T07:57:56Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:41Z"
+    "timestamp": "2025-10-09T07:57:41Z"
   },
   {
     "device": "TruScale - DSS",
@@ -1252,7 +1252,7 @@
     "device": "TruScale - DSS",
     "service": "Check DSS LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:59Z"
+    "timestamp": "2025-10-09T08:00:59Z"
   },
   {
     "device": "TruScale - DSS",
@@ -1269,7 +1269,7 @@
   {
     "device": "TruScale - Dcloud MX",
     "status": "DOWN",
-    "timestamp": "2025-10-09T07:42:49Z"
+    "timestamp": "2025-10-09T07:57:49Z"
   },
   {
     "device": "TruScale - Dcloud MX",
@@ -1287,7 +1287,7 @@
     "device": "TruScale - Dcloud MX",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:49:55Z"
+    "timestamp": "2025-10-09T07:59:55Z"
   },
   {
     "device": "TruScale - Dcloud MX 2",
@@ -1310,7 +1310,7 @@
     "device": "TruScale - Dcloud MX 2",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:48Z"
+    "timestamp": "2025-10-09T07:59:48Z"
   },
   {
     "device": "TruScale - De Luca",
@@ -1321,7 +1321,7 @@
     "device": "TruScale - De Luca",
     "service": "Check De Luca LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:49Z"
+    "timestamp": "2025-10-09T07:57:49Z"
   },
   {
     "device": "TruScale - De Luca",
@@ -1344,7 +1344,7 @@
     "device": "TruScale - EDEN",
     "service": "Check Eden Argentina LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:57Z"
+    "timestamp": "2025-10-09T08:00:57Z"
   },
   {
     "device": "TruScale - EDEN",
@@ -1367,7 +1367,7 @@
     "device": "TruScale - Evodian",
     "service": "Check Evodian LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:58Z"
+    "timestamp": "2025-10-09T08:00:58Z"
   },
   {
     "device": "TruScale - Evodian",
@@ -1379,7 +1379,7 @@
     "device": "TruScale - Evodian",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:43Z"
+    "timestamp": "2025-10-09T07:59:43Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
@@ -1390,19 +1390,19 @@
     "device": "TruScale - FC Internazionale Milano",
     "service": "Check FC Internazionale Milano LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:57Z"
+    "timestamp": "2025-10-09T07:59:57Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:42Z"
+    "timestamp": "2025-10-09T07:57:42Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:00Z"
+    "timestamp": "2025-10-09T08:01:00Z"
   },
   {
     "device": "TruScale - FWS Canada",
@@ -1419,7 +1419,7 @@
     "device": "TruScale - FWS Canada",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:17Z"
+    "timestamp": "2025-10-09T07:58:17Z"
   },
   {
     "device": "TruScale - FWS Canada",
@@ -1430,7 +1430,7 @@
   {
     "device": "TruScale - First Focus IT",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:49Z"
+    "timestamp": "2025-10-09T07:59:49Z"
   },
   {
     "device": "TruScale - First Focus IT",
@@ -1442,18 +1442,18 @@
     "device": "TruScale - First Focus IT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:55Z"
+    "timestamp": "2025-10-09T07:57:55Z"
   },
   {
     "device": "TruScale - GTD Peru",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:46Z"
+    "timestamp": "2025-10-09T07:57:46Z"
   },
   {
     "device": "TruScale - GTD Peru",
     "service": "Check GTD Peru LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:01Z"
+    "timestamp": "2025-10-09T08:01:01Z"
   },
   {
     "device": "TruScale - GTD Peru",
@@ -1476,19 +1476,19 @@
     "device": "TruScale - Guzdan Espana",
     "service": "Check Guzdan Espana LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:38Z"
+    "timestamp": "2025-10-09T07:57:38Z"
   },
   {
     "device": "TruScale - Guzdan Espana",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:40Z"
+    "timestamp": "2025-10-09T07:57:40Z"
   },
   {
     "device": "TruScale - Guzdan Espana",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:14Z"
+    "timestamp": "2025-10-09T08:00:14Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 1",
@@ -1499,7 +1499,7 @@
     "device": "TruScale - HALLAG - Rack 1",
     "service": "Check HALLAG - Rack 1 LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:10Z"
+    "timestamp": "2025-10-09T07:59:10Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 1",
@@ -1511,18 +1511,18 @@
     "device": "TruScale - HALLAG - Rack 1",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:43Z"
+    "timestamp": "2025-10-09T07:57:43Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
     "status": "DOWN",
-    "timestamp": "2025-10-09T07:42:53Z"
+    "timestamp": "2025-10-09T07:57:53Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
     "service": "Check HALLAG - Rack 2 LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:51:02Z"
+    "timestamp": "2025-10-09T08:01:02Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
@@ -1534,12 +1534,12 @@
     "device": "TruScale - HALLAG - Rack 2",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:50:39Z"
+    "timestamp": "2025-10-09T08:00:39Z"
   },
   {
     "device": "TruScale - ICT Cloud",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:16Z"
+    "timestamp": "2025-10-09T07:59:16Z"
   },
   {
     "device": "TruScale - ICT Cloud",
@@ -1557,7 +1557,7 @@
     "device": "TruScale - ICT Cloud",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:02Z"
+    "timestamp": "2025-10-09T08:01:02Z"
   },
   {
     "device": "TruScale - ICT Cloud UK",
@@ -1591,7 +1591,7 @@
     "device": "TruScale - Impresistem - Satena",
     "service": "Check Impresistem Satena LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:03Z"
+    "timestamp": "2025-10-09T08:01:03Z"
   },
   {
     "device": "TruScale - Impresistem - Satena",
@@ -1608,19 +1608,19 @@
   {
     "device": "TruScale - Inacom Mexico",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:09Z"
+    "timestamp": "2025-10-09T08:01:09Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "service": "Check Inacom Mexico LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:30Z"
+    "timestamp": "2025-10-09T07:59:30Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:09Z"
+    "timestamp": "2025-10-09T08:01:09Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
@@ -1637,7 +1637,7 @@
     "device": "TruScale - Jersey Telecom - Guernsey",
     "service": "Check Jersey Telecom - Guernsey LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:32Z"
+    "timestamp": "2025-10-09T08:01:32Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Guernsey",
@@ -1649,7 +1649,7 @@
     "device": "TruScale - Jersey Telecom - Guernsey",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:17Z"
+    "timestamp": "2025-10-09T07:59:17Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Jersey",
@@ -1660,7 +1660,7 @@
     "device": "TruScale - Jersey Telecom - Jersey",
     "service": "Check Jersey Telecom - Jersey LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:07Z"
+    "timestamp": "2025-10-09T08:01:07Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Jersey",
@@ -1677,13 +1677,13 @@
   {
     "device": "TruScale - JustOne Add1",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:57Z"
+    "timestamp": "2025-10-09T07:57:57Z"
   },
   {
     "device": "TruScale - JustOne Add1",
     "service": "Check JustOne Add1 LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:41Z"
+    "timestamp": "2025-10-09T07:57:41Z"
   },
   {
     "device": "TruScale - JustOne Add1",
@@ -1700,13 +1700,13 @@
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
     "status": "UP",
-    "timestamp": "2025-10-09T07:47:20Z"
+    "timestamp": "2025-10-09T08:02:20Z"
   },
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
     "service": "Check JustOne ContratoMarco VDI LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:18Z"
+    "timestamp": "2025-10-09T08:02:18Z"
   },
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
@@ -1718,7 +1718,7 @@
     "device": "TruScale - JustOne ContratoMarco VDI",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:20Z"
+    "timestamp": "2025-10-09T08:02:20Z"
   },
   {
     "device": "TruScale - JustOne Private Cloud",
@@ -1735,7 +1735,7 @@
     "device": "TruScale - JustOne Private Cloud",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:53Z"
+    "timestamp": "2025-10-09T07:57:53Z"
   },
   {
     "device": "TruScale - JustOne Private Cloud",
@@ -1752,7 +1752,7 @@
     "device": "TruScale - KIO Cloud MEX2",
     "service": "Check KIO Cloud MEX2 LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:08Z"
+    "timestamp": "2025-10-09T08:01:08Z"
   },
   {
     "device": "TruScale - KIO Cloud MEX2",
@@ -1787,12 +1787,12 @@
     "device": "TruScale - KIO Cloud QRO1",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:10Z"
+    "timestamp": "2025-10-09T08:01:10Z"
   },
   {
     "device": "TruScale - Kavli AS",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:30Z"
+    "timestamp": "2025-10-09T08:01:30Z"
   },
   {
     "device": "TruScale - Kavli AS",
@@ -1821,7 +1821,7 @@
     "device": "TruScale - Konecta Peru Prod",
     "service": "Check Konecta Peru LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:45Z"
+    "timestamp": "2025-10-09T07:57:45Z"
   },
   {
     "device": "TruScale - Konecta Peru Prod",
@@ -1850,18 +1850,18 @@
     "device": "TruScale - Landbank DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:23Z"
+    "timestamp": "2025-10-09T07:58:23Z"
   },
   {
     "device": "TruScale - Landbank DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:14Z"
+    "timestamp": "2025-10-09T08:01:14Z"
   },
   {
     "device": "TruScale - Landbank Prod",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:23Z"
+    "timestamp": "2025-10-09T08:00:23Z"
   },
   {
     "device": "TruScale - Landbank Prod",
@@ -1879,30 +1879,30 @@
     "device": "TruScale - Landbank Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:22Z"
+    "timestamp": "2025-10-09T08:00:22Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "status": "UP",
-    "timestamp": "2025-10-09T07:43:12Z"
+    "timestamp": "2025-10-09T07:58:12Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "service": "Check MD6 Consulting LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:13Z"
+    "timestamp": "2025-10-09T07:58:13Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:53Z"
+    "timestamp": "2025-10-09T07:57:53Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:03Z"
+    "timestamp": "2025-10-09T07:58:03Z"
   },
   {
     "device": "TruScale - MST Lawyers",
@@ -1913,13 +1913,13 @@
     "device": "TruScale - MST Lawyers",
     "service": "Check MST Lawyers LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:50Z"
+    "timestamp": "2025-10-09T08:01:50Z"
   },
   {
     "device": "TruScale - MST Lawyers",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:55Z"
+    "timestamp": "2025-10-09T08:01:55Z"
   },
   {
     "device": "TruScale - MST Lawyers",
@@ -1942,18 +1942,18 @@
     "device": "TruScale - NTUC Kopitiam DR",
     "service": "Check NTUC DR LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:36Z"
+    "timestamp": "2025-10-09T07:58:36Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:53Z"
+    "timestamp": "2025-10-09T07:57:53Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:54Z"
+    "timestamp": "2025-10-09T08:00:54Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
@@ -1965,13 +1965,13 @@
     "device": "TruScale - NTUC Kopitiam Prod",
     "service": "Check NTUC Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:17Z"
+    "timestamp": "2025-10-09T07:59:17Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:56Z"
+    "timestamp": "2025-10-09T07:57:56Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
@@ -1982,19 +1982,19 @@
     "device": "TruScale - Nagarro FR2 DC",
     "service": "Check 365IT LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:13Z"
+    "timestamp": "2025-10-09T08:01:13Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:21Z"
+    "timestamp": "2025-10-09T07:58:21Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:41Z"
+    "timestamp": "2025-10-09T08:01:41Z"
   },
   {
     "device": "TruScale - Nagarro FR6 DC",
@@ -2005,7 +2005,7 @@
     "device": "TruScale - Nagarro FR6 DC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:39Z"
+    "timestamp": "2025-10-09T07:58:39Z"
   },
   {
     "device": "TruScale - Nagarro FR6 DC",
@@ -2017,7 +2017,7 @@
     "device": "TruScale - Nagarro FR6 DC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:47Z"
+    "timestamp": "2025-10-09T07:57:47Z"
   },
   {
     "device": "TruScale - New Tokyo Hospital",
@@ -2034,24 +2034,24 @@
     "device": "TruScale - New Tokyo Hospital",
     "service": "Check New Tokyo Hospital LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:48Z"
+    "timestamp": "2025-10-09T07:59:48Z"
   },
   {
     "device": "TruScale - New Tokyo Hospital",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:15Z"
+    "timestamp": "2025-10-09T08:01:15Z"
   },
   {
     "device": "TruScale - PORR AG",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:31Z"
+    "timestamp": "2025-10-09T08:00:31Z"
   },
   {
     "device": "TruScale - PORR AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:31Z"
+    "timestamp": "2025-10-09T08:00:31Z"
   },
   {
     "device": "TruScale - PORR AG",
@@ -2063,7 +2063,7 @@
     "device": "TruScale - PORR AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:14Z"
+    "timestamp": "2025-10-09T07:58:14Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Hyderabad",
@@ -2086,18 +2086,18 @@
     "device": "TruScale - Pappaya Cloud - Hyderabad",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:48:09Z"
+    "timestamp": "2025-10-09T07:58:09Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "status": "DOWN",
-    "timestamp": "2025-10-09T07:46:06Z"
+    "timestamp": "2025-10-09T08:01:06Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:51:17Z"
+    "timestamp": "2025-10-09T08:01:17Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
@@ -2109,7 +2109,7 @@
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:51:17Z"
+    "timestamp": "2025-10-09T08:01:17Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
@@ -2126,7 +2126,7 @@
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 208",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:23Z"
+    "timestamp": "2025-10-09T07:57:23Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
@@ -2138,19 +2138,19 @@
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 210",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:34Z"
+    "timestamp": "2025-10-09T07:57:34Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 218",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:12Z"
+    "timestamp": "2025-10-09T08:00:12Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:18Z"
+    "timestamp": "2025-10-09T08:01:18Z"
   },
   {
     "device": "TruScale - Recarta IT - Cody",
@@ -2173,30 +2173,30 @@
     "device": "TruScale - Recarta IT - Cody",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:59Z"
+    "timestamp": "2025-10-09T07:59:59Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:26Z"
+    "timestamp": "2025-10-09T07:57:26Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:52Z"
+    "timestamp": "2025-10-09T07:57:52Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "service": "Check Recarta IT - Node 4 LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:23Z"
+    "timestamp": "2025-10-09T07:57:23Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:40Z"
+    "timestamp": "2025-10-09T07:58:40Z"
   },
   {
     "device": "TruScale - Recarta IT - Spring",
@@ -2213,7 +2213,7 @@
     "device": "TruScale - Recarta IT - Spring",
     "service": "Check Recarta IT - Spring LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:31Z"
+    "timestamp": "2025-10-09T08:01:31Z"
   },
   {
     "device": "TruScale - Recarta IT - Spring",
@@ -2230,19 +2230,19 @@
     "device": "TruScale - Relyon AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:25Z"
+    "timestamp": "2025-10-09T07:59:25Z"
   },
   {
     "device": "TruScale - Relyon AG",
     "service": "Check Relyon AG LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:01Z"
+    "timestamp": "2025-10-09T08:02:01Z"
   },
   {
     "device": "TruScale - Relyon AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:05Z"
+    "timestamp": "2025-10-09T08:01:05Z"
   },
   {
     "device": "TruScale - Robson",
@@ -2259,7 +2259,7 @@
     "device": "TruScale - Robson",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:11Z"
+    "timestamp": "2025-10-09T07:59:11Z"
   },
   {
     "device": "TruScale - Robson",
@@ -2270,7 +2270,7 @@
   {
     "device": "TruScale - STGT Mexico",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:54Z"
+    "timestamp": "2025-10-09T08:01:54Z"
   },
   {
     "device": "TruScale - STGT Mexico",
@@ -2282,7 +2282,7 @@
     "device": "TruScale - STGT Mexico",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:22Z"
+    "timestamp": "2025-10-09T08:01:22Z"
   },
   {
     "device": "TruScale - STGT Mexico",
@@ -2299,13 +2299,13 @@
     "device": "TruScale - Sanfer MX",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:43Z"
+    "timestamp": "2025-10-09T07:58:43Z"
   },
   {
     "device": "TruScale - Sanfer MX",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:35Z"
+    "timestamp": "2025-10-09T07:58:35Z"
   },
   {
     "device": "TruScale - Sanfer MX",
@@ -2334,12 +2334,12 @@
     "device": "TruScale - Secure IT",
     "service": "Check Secure IT LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:23Z"
+    "timestamp": "2025-10-09T08:01:23Z"
   },
   {
     "device": "TruScale - ServiMed",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:29Z"
+    "timestamp": "2025-10-09T08:00:29Z"
   },
   {
     "device": "TruScale - ServiMed",
@@ -2357,7 +2357,7 @@
     "device": "TruScale - ServiMed",
     "service": "Check ServiMed LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:23Z"
+    "timestamp": "2025-10-09T07:59:23Z"
   },
   {
     "device": "TruScale - Sproule",
@@ -2374,13 +2374,13 @@
     "device": "TruScale - Sproule",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:49Z"
+    "timestamp": "2025-10-09T07:57:49Z"
   },
   {
     "device": "TruScale - Sproule",
     "service": "Check Sproule LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:48Z"
+    "timestamp": "2025-10-09T07:57:48Z"
   },
   {
     "device": "TruScale - Team IT - Cajacopi",
@@ -2397,7 +2397,7 @@
     "device": "TruScale - Team IT - Cajacopi",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:38Z"
+    "timestamp": "2025-10-09T07:58:38Z"
   },
   {
     "device": "TruScale - Team IT - Cajacopi",
@@ -2408,7 +2408,7 @@
   {
     "device": "TruScale - Terpel",
     "status": "UP",
-    "timestamp": "2025-10-09T07:42:59Z"
+    "timestamp": "2025-10-09T07:57:59Z"
   },
   {
     "device": "TruScale - Terpel",
@@ -2448,25 +2448,25 @@
   {
     "device": "TruScale - Toyota Australia",
     "status": "UP",
-    "timestamp": "2025-10-09T07:43:06Z"
+    "timestamp": "2025-10-09T07:58:06Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:25Z"
+    "timestamp": "2025-10-09T08:01:25Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:40Z"
+    "timestamp": "2025-10-09T07:57:40Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "service": "Check Toyota Australia LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:25Z"
+    "timestamp": "2025-10-09T07:57:25Z"
   },
   {
     "device": "TruScale - Trust Systems",
@@ -2489,24 +2489,24 @@
     "device": "TruScale - Trust Systems",
     "service": "Check Trust Systems LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:52Z"
+    "timestamp": "2025-10-09T08:01:52Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:01Z"
+    "timestamp": "2025-10-09T07:59:01Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:48Z"
+    "timestamp": "2025-10-09T07:57:48Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:49:25Z"
+    "timestamp": "2025-10-09T07:59:25Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
@@ -2529,41 +2529,41 @@
     "device": "TruScale - Vion",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:33Z"
+    "timestamp": "2025-10-09T07:58:33Z"
   },
   {
     "device": "TruScale - Vion",
     "service": "Check Vion LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:38Z"
+    "timestamp": "2025-10-09T07:58:38Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "status": "DOWN",
-    "timestamp": "2025-10-09T07:48:32Z"
+    "timestamp": "2025-10-09T07:58:32Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:48:36Z"
+    "timestamp": "2025-10-09T07:58:36Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-10-09T07:51:05Z"
+    "timestamp": "2025-10-09T08:01:05Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "service": "Check XP Investimentos LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:30Z"
+    "timestamp": "2025-10-09T07:58:30Z"
   },
   {
     "device": "TruScale - iLumno",
     "status": "UP",
-    "timestamp": "2025-10-09T07:46:28Z"
+    "timestamp": "2025-10-09T08:01:28Z"
   },
   {
     "device": "TruScale - iLumno",
@@ -2581,7 +2581,7 @@
     "device": "TruScale - iLumno",
     "service": "Check iLumno LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:26Z"
+    "timestamp": "2025-10-09T08:01:26Z"
   },
   {
     "device": "TruScale Infinite Storage - City of Joliet",
@@ -2598,13 +2598,13 @@
     "device": "TruScale Infinite Storage - City of Joliet",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:25Z"
+    "timestamp": "2025-10-09T08:01:25Z"
   },
   {
     "device": "TruScale Infinite Storage - City of Joliet",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:28Z"
+    "timestamp": "2025-10-09T08:01:28Z"
   },
   {
     "device": "TruScale Infinite Storage - IGT",
@@ -2615,36 +2615,36 @@
     "device": "TruScale Infinite Storage - IGT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:07Z"
+    "timestamp": "2025-10-09T08:01:07Z"
   },
   {
     "device": "TruScale Infinite Storage - IGT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:13Z"
+    "timestamp": "2025-10-09T07:58:13Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:30Z"
+    "timestamp": "2025-10-09T08:00:30Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "service": "Check Aichelin LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:31Z"
+    "timestamp": "2025-10-09T08:00:31Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:45Z"
+    "timestamp": "2025-10-09T07:57:45Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:48:18Z"
+    "timestamp": "2025-10-09T07:58:18Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
@@ -2655,19 +2655,19 @@
     "device": "VMIAAS -  Green Datacenter AG",
     "service": "Check Green Datacenter AG LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:50Z"
+    "timestamp": "2025-10-09T07:57:50Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:18Z"
+    "timestamp": "2025-10-09T08:02:18Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:51:08Z"
+    "timestamp": "2025-10-09T08:01:08Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Boston",
@@ -2684,7 +2684,7 @@
     "device": "VMIAAS -  Northeastern - Boston",
     "service": "Check NEU Boton LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:48Z"
+    "timestamp": "2025-10-09T07:57:48Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Boston",
@@ -2730,7 +2730,7 @@
     "device": "VMIAAS -  ZKW Group",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:51Z"
+    "timestamp": "2025-10-09T07:57:51Z"
   },
   {
     "device": "VMIAAS -  ZKW Group",
@@ -2753,18 +2753,18 @@
     "device": "VMIAAS - HALLAG - St Johann",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-10-09T07:47:26Z"
+    "timestamp": "2025-10-09T07:57:26Z"
   },
   {
     "device": "VMIAAS - HALLAG - St Johann",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:50:53Z"
+    "timestamp": "2025-10-09T08:00:53Z"
   },
   {
     "device": "VMIAAS - POLO Motorrad und Sportswear Gmbh",
     "status": "UP",
-    "timestamp": "2025-10-09T07:44:52Z"
+    "timestamp": "2025-10-09T07:59:52Z"
   },
   {
     "device": "VMIAAS - POLO Motorrad und Sportswear Gmbh",
@@ -2787,7 +2787,7 @@
   {
     "device": "VMIAAS - Sauber Motorsports AG",
     "status": "UP",
-    "timestamp": "2025-10-09T07:45:26Z"
+    "timestamp": "2025-10-09T08:00:26Z"
   },
   {
     "device": "VMIAAS - Sauber Motorsports AG",
@@ -2805,53 +2805,53 @@
     "device": "VMIAAS - Sauber Motorsports AG",
     "service": "Check Sauber Motorsports AG LXCA",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:18Z"
+    "timestamp": "2025-10-09T08:02:18Z"
   },
   {
     "device": "localhost",
     "status": "UP",
-    "timestamp": "2025-10-09T07:43:10Z"
+    "timestamp": "2025-10-09T07:58:10Z"
   },
   {
     "device": "localhost",
     "service": "Current Load",
     "status": "OK",
-    "timestamp": "2025-10-09T07:55:31Z"
+    "timestamp": "2025-10-09T08:00:31Z"
   },
   {
     "device": "localhost",
     "service": "Current Users",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:26Z"
+    "timestamp": "2025-10-09T07:57:26Z"
   },
   {
     "device": "localhost",
     "service": "PING",
     "status": "OK",
-    "timestamp": "2025-10-09T07:55:24Z"
+    "timestamp": "2025-10-09T08:00:24Z"
   },
   {
     "device": "localhost",
     "service": "Root Partition",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:39Z"
+    "timestamp": "2025-10-09T07:57:39Z"
   },
   {
     "device": "localhost",
     "service": "SSH",
     "status": "OK",
-    "timestamp": "2025-10-09T07:56:37Z"
+    "timestamp": "2025-10-09T08:01:37Z"
   },
   {
     "device": "localhost",
     "service": "Swap Usage",
     "status": "OK",
-    "timestamp": "2025-10-09T07:53:33Z"
+    "timestamp": "2025-10-09T07:58:33Z"
   },
   {
     "device": "localhost",
     "service": "Total Processes",
     "status": "OK",
-    "timestamp": "2025-10-09T07:52:53Z"
+    "timestamp": "2025-10-09T07:57:53Z"
   }
 ]
