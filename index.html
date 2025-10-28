@@ -5,127 +5,76 @@
 <title>Device & Service Status</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
-
     :root {
-
       /* badge colors */
-
       --ok:#1b8f3a; --warn:#c69000; --crit:#c62828; --unk:#666;
-
       --up:#1b8f3a; --down:#c62828; --unreach:#8e24aa;
- 
       /* light background tints for cards */
-
       --ok-bg:#e8f5e9;
-
       --warn-bg:#fff8e1;
-
       --crit-bg:#ffebee;
-
       --unk-bg:#f2f2f2;
-
       --down-bg:#fce4ec;
-
       --unreach-bg:#f3e5f5;
-
     }
- 
     body {
-
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-
       background:#f7f7f7;
-
       margin:0;
-
       padding:24px;
-
     }
-
     h1 { margin:0 0 12px; text-align:center; }
-
     #updated { text-align:center; color:#555; margin-bottom:18px; font-size:0.9rem; }
-
     .grid { display:grid; gap:16px; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
- 
+
     /* card styling */
-
     .card {
-
       border-radius:12px;
-
       box-shadow:0 2px 8px rgba(0,0,0,.08);
-
       padding:16px;
-
       transition: background 0.3s;
-
     }
-
-    .card.ok, .card.up { background: var(--ok-bg); }
-
-    .card.warning { background: var(--warn-bg); }
-
-    .card.critical, .card.down { background: var(--crit-bg); }
-
+    .card.ok,
+    .card.up        { background: var(--ok-bg); }
+    .card.warning   { background: var(--warn-bg); }
+    .card.critical,
+    .card.down      { background: var(--crit-bg); }
     .card.unreachable { background: var(--unreach-bg); }
+    .card.unknown   { background: var(--unk-bg); }
 
-    .card.unknown { background: var(--unk-bg); }
- 
     .host-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }
-
     .host-name { font-weight:700; font-size:1.05rem; word-break:break-all; }
-
     .sub { color:#666; font-size:0.85rem; margin-top:2px; }
- 
+
     /* status badge */
-
     .badge {
-
       display:inline-block;
-
       padding:2px 8px;
-
       border-radius:999px;
-
       font-size:0.78rem;
-
       font-weight:700;
-
       line-height:1.6;
-
       color:#fff;
-
     }
+    .ok        { background:var(--ok); }
+    .up        { background:var(--up); }
+    .warning   { background:var(--warn); }
+    .critical  { background:var(--crit); }
+    .unknown   { background:var(--unk); }
+    .down      { background:var(--down); }
+    .unreachable { background:var(--unreach); }
 
-    .ok{background:var(--ok);}
-
-    .up{background:var(--up);}
-
-    .warning{background:var(--warn);}
-
-    .critical{background:var(--crit);}
-
-    .unknown{background:var(--unk);}
-
-    .down{background:var(--down);}
-
-    .unreachable{background:var(--unreach);}
- 
     ul.services { list-style:none; padding:0; margin:8px 0 0; }
-
     ul.services li {
-
-      display:flex; justify-content:space-between; align-items:center;
-
-      padding:8px 0; border-top:1px solid #ddd; gap:8px;
-
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:8px 0;
+      border-top:1px solid #ddd;
+      gap:8px;
     }
-
     .svc-name { font-weight:600; flex:1; word-break:break-word; }
-
     .svc-meta { color:#555; font-size:0.8rem; white-space:nowrap; }
-
     .empty { text-align:center; color:#666; margin-top:24px; }
 </style>
 </head>
@@ -133,172 +82,170 @@
 <h1>Device & Service Status</h1>
 <div id="updated">Loading…</div>
 <div id="grid" class="grid"></div>
- 
+
 <script>
-
+  // map Nagios status -> CSS class
   function stateClass(s) {
-
     const v = String(s || '').toUpperCase();
-
     if (v === 'OK') return 'ok';
-
     if (v === 'UP') return 'up';
-
     if (v === 'WARNING') return 'warning';
-
     if (v === 'CRITICAL') return 'critical';
-
     if (v === 'DOWN') return 'down';
-
     if (v === 'UNREACHABLE') return 'unreachable';
-
     return 'unknown';
-
   }
 
+  // format timestamps safely
   function fmt(ts) {
-
-    try { return new Date(ts).toLocaleString(); } catch { return String(ts || ''); }
-
+    try { return new Date(ts).toLocaleString(); }
+    catch { return String(ts || ''); }
   }
- 
-  function groupByHost(records){
 
+  // choose which timestamp label to display for a service
+  function pickServiceTimeLabel(svc) {
+    if (svc.ts)   return `Last check: ${fmt(svc.ts)}`;
+    if (svc.seen) return `Seen: ${fmt(svc.seen)}`;
+    return '';
+  }
+
+  // choose which timestamp label to display for a host
+  function pickHostTimeLabel(h) {
+    if (h.hostTs)   return `<div class="sub">Host check: ${fmt(h.hostTs)}</div>`;
+    if (h.hostSeen) return `<div class="sub">Seen: ${fmt(h.hostSeen)}</div>`;
+    return '';
+  }
+
+  // Take flat status.json and group by host
+  function groupByHost(records){
     const hosts = new Map();
 
     for (const r of records) {
-
       const key = r.device || r.host || 'UNKNOWN';
 
-      if (!hosts.has(key)) hosts.set(key, { host: key, hostStatus: null, hostTs: null, address: r.address || '', services: [] });
+      if (!hosts.has(key)) {
+        hosts.set(key, {
+          host: key,
+          hostStatus: null,
+          hostTs: null,
+          hostSeen: null,
+          address: r.address || '',
+          services: []
+        });
+      }
 
       const h = hosts.get(key);
 
+      // service entries
       if (r.service) {
-
-        h.services.push({ name: r.service, status: r.status, ts: r.timestamp });
-
-      } else {
-
-        h.hostStatus = r.status || h.hostStatus;
-
-        h.hostTs = r.timestamp || h.hostTs;
-
-        if (r.address) h.address = r.address;
-
+        h.services.push({
+          name:  r.service,
+          status: r.status,
+          ts:     r.timestamp,
+          seen:   r.seen_at
+        });
+        continue;
       }
 
+      // host entries
+      if (r.status)      h.hostStatus = r.status;
+      if (r.timestamp)   h.hostTs     = r.timestamp;
+      if (r.seen_at)     h.hostSeen   = r.seen_at;
+      if (r.address)     h.address    = r.address;
     }
 
-    const sev = s => ({CRITICAL:0, DOWN:0, UNREACHABLE:1, WARNING:2, UNKNOWN:3, OK:4, UP:4}[String(s).toUpperCase()] ?? 5);
+    // sort services by severity then name
+    const sev = s => (
+      {CRITICAL:0, DOWN:0, UNREACHABLE:1, WARNING:2, UNKNOWN:3, OK:4, UP:4}[String(s).toUpperCase()]
+      ?? 5
+    );
+    for (const h of hosts.values()) {
+      h.services.sort(
+        (a,b)=> sev(a.status)-sev(b.status) || a.name.localeCompare(b.name)
+      );
+    }
 
-    for (const h of hosts.values()) h.services.sort((a,b)=> sev(a.status)-sev(b.status) || a.name.localeCompare(b.name));
-
+    // return an array of hosts, sorted so worst hosts first
     const arr = Array.from(hosts.values());
-
     const worst = h => {
-
-      const pool = [h.hostStatus, ...h.services.map(s=>s.status)].filter(Boolean).map(x=>String(x).toUpperCase());
-
+      const pool = [h.hostStatus, ...h.services.map(s=>s.status)]
+        .filter(Boolean)
+        .map(x => String(x).toUpperCase());
       if (pool.includes('CRITICAL') || pool.includes('DOWN')) return 0;
-
       if (pool.includes('UNREACHABLE')) return 1;
-
       if (pool.includes('WARNING')) return 2;
-
       if (pool.includes('UNKNOWN')) return 3;
-
       return 4;
-
     };
-
     arr.sort((a,b)=> worst(a)-worst(b) || a.host.localeCompare(b.host));
-
     return arr;
-
   }
- 
+
   async function loadData() {
-
-    const url = 'status.json?ts=' + Date.now();
-
+    const url = 'status.json?ts=' + Date.now(); // cache-buster
     const resp = await fetch(url, { cache: 'no-store' });
-
     if (!resp.ok) throw new Error('Fetch failed: ' + resp.status);
 
     const data = await resp.json();
- 
     const grouped = groupByHost(Array.isArray(data) ? data : []);
 
-    const grid = document.getElementById('grid');
-
+    const grid    = document.getElementById('grid');
     const updated = document.getElementById('updated');
- 
+
     if (!grouped.length) {
-
       grid.innerHTML = '<div class="empty">No data.</div>';
-
       updated.textContent = 'Last updated: ' + new Date().toLocaleString();
-
       return;
-
     }
- 
+
     grid.innerHTML = grouped.map(h => {
+      const hostCls   = h.hostStatus ? stateClass(h.hostStatus) : 'unknown';
+      const hostBadge = h.hostStatus
+        ? `<span class="badge ${hostCls}">${String(h.hostStatus).toUpperCase()}</span>`
+        : '';
 
-      const hostCls = h.hostStatus ? stateClass(h.hostStatus) : 'unknown';
+      const addrBlock = h.address
+        ? `<div class="sub">${h.address}</div>`
+        : '';
 
-      const hostBadge = h.hostStatus ? `<span class="badge ${hostCls}">${String(h.hostStatus).toUpperCase()}</span>` : '';
-
-      const addr = h.address ? `<div class="sub">${h.address}</div>` : '';
-
-      const hostTs = h.hostTs ? `<div class="sub">Host check: ${fmt(h.hostTs)}</div>` : '';
+      const timeBlock = pickHostTimeLabel(h);
 
       const svcList = h.services.length
-
         ? `<ul class="services">` + h.services.map(s => `
-<li>
-<span class="svc-name">${s.name}</span>
-<span class="svc-meta">${fmt(s.ts)}</span>
-<span class="badge ${stateClass(s.status)}">${String(s.status).toUpperCase()}</span>
-</li>`).join('') + `</ul>`
-
+            <li>
+              <span class="svc-name">${s.name}</span>
+              <span class="svc-meta">${pickServiceTimeLabel(s)}</span>
+              <span class="badge ${stateClass(s.status)}">${String(s.status).toUpperCase()}</span>
+            </li>`
+          ).join('') + `</ul>`
         : `<div class="sub">No services reported.</div>`;
- 
+
       return `
-<div class="card ${hostCls}">
-<div class="host-head">
-<div>
-<div class="host-name">${h.host}</div>
-
-      ${addr}
-
-      ${hostTs}
-</div>
-
-    ${hostBadge}
-</div>
-
-  ${svcList}
-</div>`;
-
+        <div class="card ${hostCls}">
+          <div class="host-head">
+            <div>
+              <div class="host-name">${h.host}</div>
+              ${addrBlock}
+              ${timeBlock}
+            </div>
+            ${hostBadge}
+          </div>
+          ${svcList}
+        </div>`;
     }).join('');
- 
+
     updated.textContent = 'Last updated: ' + new Date().toLocaleString();
-
   }
- 
+
   loadData().catch(err => {
-
-    document.getElementById('grid').innerHTML = `<div class="empty">Error loading data: ${err.message}</div>`;
-
-    document.getElementById('updated').textContent = 'Last updated: ' + new Date().toLocaleString();
-
+    document.getElementById('grid').innerHTML =
+      `<div class="empty">Error loading data: ${err.message}</div>`;
+    document.getElementById('updated').textContent =
+      'Last updated: ' + new Date().toLocaleString();
   });
 
+  // refresh every 30s
   setInterval(loadData, 30000);
 </script>
 </body>
 </html>
-
- 
