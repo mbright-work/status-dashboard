@@ -2,3388 +2,3388 @@
   {
     "device": "BWA - Becton Dickinson",
     "status": "UP",
-    "timestamp": "2025-11-02T06:51:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "BWA - Becton Dickinson",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "BWA - Becton Dickinson",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:08Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:08Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "BWA - Disney",
     "status": "UP",
-    "timestamp": "2025-11-02T06:43:08Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:08Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "BWA - Disney",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Breakthru Beverages",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Breakthru Beverages",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Breakthru Beverages",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Caleffi",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:28Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:28Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Caleffi",
     "service": "Check HANA Caleffi LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Caleffi",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:15Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:15Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Caleffi",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Cheney Brothers",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Cheney Brothers",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Cheney Brothers",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Coopidrogas",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Coopidrogas",
     "service": "Check Coopidrogas LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Coopidrogas",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Coopidrogas",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - JANM DEV",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - JANM DEV",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - JANM DRC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:43:10Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:10Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - JANM DRC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:22Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:22Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - JANM Prod",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - JANM Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Liverpool",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Liverpool",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:53Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:53Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Liverpool",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - MSU - CCDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - MSU - CCDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - MSU - CCDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - MSU - MSUDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - MSU - MSUDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - MSU - MSUDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo FDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo FDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo FDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo LDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo LDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo LDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo NABW PDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo NABW PDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo NABW PDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo NABW RDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo NABW RDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo NABW RDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo PDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo PDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo PDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo RDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo RDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:53Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:53Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo RDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo SDC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo SDC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - PepsiCo SDC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Queensland Rail",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - Queensland Rail",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - UGI",
     "status": "UP",
-    "timestamp": "2025-11-02T06:51:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - UGI",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:15Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:15Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - UGI",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - UGL",
     "status": "UP",
-    "timestamp": "2025-11-02T06:46:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HANA - UGL",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HPC - Diamond Light Source",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HPC - Diamond Light Source",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HPC - Diamond Light Source",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HPC - SMN",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HPC - SMN",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HPC - SMN",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Apetito UK",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Apetito UK",
     "service": "Check HWO Apetito UK LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Apetito UK",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Apetito UK",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:08Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:08Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Caleffi",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:01Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:01Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Caleffi",
     "service": "Check HWO Caleffi LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:13Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:13Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Caleffi",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Caleffi",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate",
     "service": "Check Colgate HX LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate-Swidnica",
     "status": "UP",
-    "timestamp": "2025-11-02T06:39:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate-Swidnica",
     "service": "Check Colgate-Swidnica LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate-Swidnica",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - Colgate-Swidnica",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:34Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:34Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - MISMO",
     "status": "UP",
-    "timestamp": "2025-11-02T06:46:07Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:07Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - MISMO",
     "service": "Check MISMO LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:01Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:01Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - MISMO",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:07Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:07Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - MISMO",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - OIZ PRD",
     "status": "UP",
-    "timestamp": "2025-11-02T06:42:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - OIZ PRD",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:16Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:16Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - OIZ TST",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - OIZ TST",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - PORR",
     "status": "UP",
-    "timestamp": "2025-11-02T06:43:10Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:10Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - PORR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - PORR",
     "service": "Check PORR AG LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "HWO - PORR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
     "status": "UP",
-    "timestamp": "2025-11-02T06:43:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
     "service": "Check GCG - Woodside Houston DR LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:08Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:08Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
     "service": "Check GCG - Woodside Houston Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside - Houston Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
     "service": "Check GCG Woodside Perth LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Perth",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Sydney",
     "status": "UP",
-    "timestamp": "2025-11-02T06:47:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:02:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Sydney",
     "service": "Check GCG - Woodside Sydney LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Sydney",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:37Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:37Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "LMS-DCIM - GCG - Woodside Sydney",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:11Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:11Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - Garanti Bank",
     "status": "UP",
-    "timestamp": "2025-11-02T06:41:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:56:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - Garanti Bank",
     "service": "Check Garanti Bank LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:27Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:27Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - Garanti Bank",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - Garanti Bank",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS",
     "service": "Check IGDAS LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:27Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:27Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:50:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS DR",
     "status": "UP",
-    "timestamp": "2025-11-02T06:39:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS DR",
     "service": "Check IGDAS DR LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - IGDAS DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - LTL",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - LTL",
     "service": "Check LTL LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - LTL",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:22Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - LTL",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - MV Lab",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - MV Lab",
     "service": "Check MV Lab LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - MV Lab",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "SAPHEC - MV Lab",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "StorageSupport - Helaba",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "StorageSupport - Helaba",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "StorageSupport - Helaba",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:01Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:01Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:29Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:29Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
     "service": "Check AmeriGas - TekPark LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Tekpark",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Trooper",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:22Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:22Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Trooper",
     "service": "Check AmeriGas - Trooper LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Trooper",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - AmeriGas - Trooper",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:03Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:03Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - Avet Pharmaceuticals",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - Avet Pharmaceuticals",
     "service": "Check Avet Pharmaceuticals LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - Avet Pharmaceuticals",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TS HANA - Avet Pharmaceuticals",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:15Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:15Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Dusseldorf",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:24Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:24Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Dusseldorf",
     "service": "Check Also LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Dusseldorf",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Dusseldorf",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:57Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:57Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "service": "Check Also Meschede LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ALSO Meschede",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:07Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:07Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ARUS",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ARUS",
     "service": "Check ARUS LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ARUS",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ARUS",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AT DATA",
     "status": "UP",
-    "timestamp": "2025-11-02T06:45:27Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:27Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AT DATA",
     "service": "Check AT DATA LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AT DATA",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:27Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:27Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AT DATA",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AWP Allianz",
     "status": "DOWN",
-    "timestamp": "2025-11-02T06:39:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AWP Allianz",
     "service": "Check AWP-Allianz LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:50:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AWP Allianz",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:50:29Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:29Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AWP Allianz",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:48:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AXA France",
     "status": "UP",
-    "timestamp": "2025-11-02T06:42:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AXA France",
     "service": "Check AXA France LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:57Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:57Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AXA Germany",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AXA Germany",
     "service": "Check AXA Germany LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AddOn Systems",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AddOn Systems",
     "service": "Check AddOn LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AddOn Systems",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - AddOn Systems",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Axians ICT",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Axians ICT",
     "service": "Check Axians ICT LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Axians ICT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:13Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:13Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Axians ICT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Baionity GmbH",
     "status": "DOWN",
-    "timestamp": "2025-11-02T06:37:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:52:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Baionity GmbH",
     "service": "Check Baionity GmbH LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:50:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Baionity GmbH",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:47:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Baionity GmbH",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:46:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Bently Nevada",
     "status": "UP",
-    "timestamp": "2025-11-02T06:43:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Bently Nevada",
     "service": "Check Bently Nevada LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Bently Nevada",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Bently Nevada",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Blaser Cafe",
     "status": "UP",
-    "timestamp": "2025-11-02T06:37:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:52:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Blaser Cafe",
     "service": "Check Blaser Cafe LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Blaser Cafe",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Blaser Cafe",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CVA",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CVA",
     "service": "Check CVA LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:16Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:16Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CVA",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CVA",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Cloud Server Australia",
     "status": "UP",
-    "timestamp": "2025-11-02T06:37:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:52:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Cloud Server Australia",
     "service": "Check Cloud Server Australia LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Cloud Server Australia",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Cloud Server Australia",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CloudConnect",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CloudConnect",
     "service": "Check CloudConnect LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CloudConnect",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - CloudConnect",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:03Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:03Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "service": "Check Combiphar DR LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:22Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:22Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:08Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:08Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
     "service": "Check Combiphar Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Combiphar Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - DSS",
     "status": "UP",
-    "timestamp": "2025-11-02T06:45:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - DSS",
     "service": "Check DSS LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - DSS",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - DSS",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX",
     "status": "DOWN",
-    "timestamp": "2025-11-02T06:42:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX",
     "service": "Check Dcloud MX LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:49:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:47:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:50:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX 2",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX 2",
     "service": "Check Dcloud MX 2 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:34Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:34Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX 2",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Dcloud MX 2",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - De Luca",
     "status": "UP",
-    "timestamp": "2025-11-02T06:45:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - De Luca",
     "service": "Check De Luca LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - De Luca",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - De Luca",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - EDEN",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - EDEN",
     "service": "Check Eden Argentina LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:53Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:53Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - EDEN",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - EDEN",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Evodian",
     "status": "UP",
-    "timestamp": "2025-11-02T06:39:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Evodian",
     "service": "Check Evodian LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Evodian",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Evodian",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
     "status": "UP",
-    "timestamp": "2025-11-02T06:42:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
     "service": "Check FC Internazionale Milano LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FC Internazionale Milano",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FWS Canada",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FWS Canada",
     "service": "Check FWS Canada LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FWS Canada",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - FWS Canada",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - First Focus IT",
     "status": "UP",
-    "timestamp": "2025-11-02T06:39:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - First Focus IT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - First Focus IT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - GTD Peru",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - GTD Peru",
     "service": "Check GTD Peru LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - GTD Peru",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - GTD Peru",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:10Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:10Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Guzdan Espana",
     "status": "UP",
-    "timestamp": "2025-11-02T06:42:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Guzdan Espana",
     "service": "Check Guzdan Espana LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Guzdan Espana",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Guzdan Espana",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 1",
     "status": "UP",
-    "timestamp": "2025-11-02T06:37:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:52:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 1",
     "service": "Check HALLAG - Rack 1 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 1",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 1",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:53Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:53Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
     "service": "Check HALLAG - Rack 2 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - HALLAG - Rack 2",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud",
     "status": "UP",
-    "timestamp": "2025-11-02T06:39:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud",
     "service": "Check ICT Cloud LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud UK",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud UK",
     "service": "Check ICT Cloud UK LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud UK",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ICT Cloud UK",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365 IT",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365 IT",
     "service": "Check 365IT LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365 IT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:13Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:13Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365 IT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365 IT",
     "service": "Metering - 365 IT",
     "status": "UNKNOWN",
-    "timestamp": "2025-11-02T06:42:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365IT Cloudreso",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:15Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:15Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - IaaS - 365IT Cloudreso",
     "service": "Check 365IT Cloudreso LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Impresistem - Satena",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Impresistem - Satena",
     "service": "Check Impresistem Satena LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:13Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:13Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Impresistem - Satena",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Impresistem - Satena",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "status": "UP",
-    "timestamp": "2025-11-02T06:47:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:02:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "service": "Check Inacom Mexico LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:34Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:34Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Inacom Mexico",
     "service": "Mail Delivery - nagios mbox",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Guernsey",
     "status": "UP",
-    "timestamp": "2025-11-02T06:41:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:56:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Guernsey",
     "service": "Check Jersey Telecom - Guernsey LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Guernsey",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Guernsey",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Jersey",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:57Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:57Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Jersey",
     "service": "Check Jersey Telecom - Jersey LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Jersey",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Jersey Telecom - Jersey",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
     "status": "UP",
-    "timestamp": "2025-11-02T06:46:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
     "service": "Check JustOne ContratoMarco VDI LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:10Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:10Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne ContratoMarco VDI",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne Private Cloud",
     "status": "UP",
-    "timestamp": "2025-11-02T06:51:34Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:34Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne Private Cloud",
     "service": "Check JustOne Private Cloud LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:15Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:15Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne Private Cloud",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - JustOne Private Cloud",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud MEX2",
     "status": "UP",
-    "timestamp": "2025-11-02T06:37:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:52:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud MEX2",
     "service": "Check KIO Cloud MEX2 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud MEX2",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud MEX2",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:28Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:28Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud QRO1",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud QRO1",
     "service": "Check KIO Cloud QRO1 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud QRO1",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO Cloud QRO1",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO MASNEGOCIO",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO MASNEGOCIO",
     "service": "Check KIO MASNEGOCIO LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:01Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:01Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO MASNEGOCIO",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:56Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:56Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - KIO MASNEGOCIO",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Kavli AS",
     "status": "UP",
-    "timestamp": "2025-11-02T06:43:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Kavli AS",
     "service": "Check Kavli AS LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:03Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:03Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Kavli AS",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Kavli AS",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Konecta Peru Prod",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:57Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:57Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Konecta Peru Prod",
     "service": "Check Konecta Peru LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Konecta Peru Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Konecta Peru Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank DR",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:28Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:28Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank DR",
     "service": "Check Landbank DR LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank Prod",
     "status": "UP",
-    "timestamp": "2025-11-02T06:45:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank Prod",
     "service": "Check Landbank Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Landbank Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:27Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:27Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "service": "Check MD6 Consulting LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:24Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:24Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MD6 Consulting",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MST Lawyers",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:34Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:34Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MST Lawyers",
     "service": "Check MST Lawyers LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MST Lawyers",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - MST Lawyers",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam DR",
     "status": "UP",
-    "timestamp": "2025-11-02T06:42:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam DR",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam DR",
     "service": "Check NTUC DR LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:48Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:48Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam DR",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
     "status": "UP",
-    "timestamp": "2025-11-02T06:41:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:56:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
     "service": "Check NTUC Prod LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:07Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:07Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - NTUC Kopitiam Prod",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
     "service": "Check 365IT LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR2 DC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR6 DC",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR6 DC",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR6 DC",
     "service": "Check Nagarro FR6 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:11Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:11Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Nagarro FR6 DC",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - New Tokyo Hospital",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - New Tokyo Hospital",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - New Tokyo Hospital",
     "service": "Check New Tokyo Hospital LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - New Tokyo Hospital",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - PORR AG",
     "status": "UP",
-    "timestamp": "2025-11-02T06:51:11Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:11Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - PORR AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:10Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:10Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - PORR AG",
     "service": "Check PORR AG LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:24Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:24Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - PORR AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:24Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:24Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Hyderabad",
     "status": "DOWN",
-    "timestamp": "2025-11-02T06:40:28Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:28Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Hyderabad",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:47:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Hyderabad",
     "service": "Check Pappaya Cloud - Hyderabad LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:51:13Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:13Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Hyderabad",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:48:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "status": "DOWN",
-    "timestamp": "2025-11-02T06:50:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "service": "Check Mailflow",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:46:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "service": "Check Pappaya Cloud - Mumbai LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:47:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Pappaya Cloud - Mumbai",
     "service": "Check SSH",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:51:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 208",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 209",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 210",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:35Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:35Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check Phoenix Systems LXCA 218",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Phoenix Systems",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:15Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:15Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Photonis",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Photonis",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Photonis",
     "service": "Check Photonis LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Photonis",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:16Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:16Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Cody",
     "status": "UP",
-    "timestamp": "2025-11-02T06:41:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:56:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Cody",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Cody",
     "service": "Check Recarta IT - Cody LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Cody",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:29Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:29Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "service": "Check Recarta IT - Node 4 LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Node 4",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:37Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:37Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Spring",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Spring",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Spring",
     "service": "Check Recarta IT - Spring LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Recarta IT - Spring",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Relyon AG",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Relyon AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Relyon AG",
     "service": "Check Relyon AG LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Relyon AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Robson",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Robson",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Robson",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Robson",
     "service": "Check TS Robson LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:22Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:22Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - STGT Mexico",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - STGT Mexico",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:55Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:55Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - STGT Mexico",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - STGT Mexico",
     "service": "Check STGT Mexico LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sanfer MX",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sanfer MX",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:52Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:52Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sanfer MX",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:37Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:37Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sanfer MX",
     "service": "Check Sanfer MX LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Secure IT",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Secure IT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Secure IT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Secure IT",
     "service": "Check Secure IT LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ServiMed",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ServiMed",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ServiMed",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - ServiMed",
     "service": "Check ServiMed LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:25Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:25Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sproule",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sproule",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sproule",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Sproule",
     "service": "Check Sproule LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:06Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:06Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Team IT - Cajacopi",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:07Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:07Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Team IT - Cajacopi",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:08Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:08Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Team IT - Cajacopi",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:58Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:58Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Team IT - Cajacopi",
     "service": "Check TS - Team IT - Cajacopi LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:27Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:27Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Terpel",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Terpel",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:49:51Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:59:51Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Terpel",
     "service": "Check Terpel LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:01Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:01Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Town of Enfield",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Town of Enfield",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:12Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:12Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Town of Enfield",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:29Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:29Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Town of Enfield",
     "service": "Check Town of Enfield LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "status": "UP",
-    "timestamp": "2025-11-02T06:46:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Toyota Australia",
     "service": "Check Toyota Australia LXCA",
     "status": "CRITICAL",
-    "timestamp": "2025-11-02T06:51:50Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:50Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Trust Systems",
     "status": "UP",
-    "timestamp": "2025-11-02T06:49:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Trust Systems",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Trust Systems",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Trust Systems",
     "service": "Check Trust Systems LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:13Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:13Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:40Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:40Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:26Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:26Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Varroc India - Galaxy",
     "service": "Check Varroc India - Galaxy LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Vion",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Vion",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Vion",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:57Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:57Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - Vion",
     "service": "Check Vion LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:59Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:59Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "status": "UP",
-    "timestamp": "2025-11-02T06:51:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - XP Investimentos",
     "service": "Check XP Investimentos LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - iLumno",
     "status": "UP",
-    "timestamp": "2025-11-02T06:46:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - iLumno",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:17Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:17Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - iLumno",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale - iLumno",
     "service": "Check iLumno LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - City of Joliet",
     "status": "UP",
-    "timestamp": "2025-11-02T06:50:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - City of Joliet",
     "service": "Check City of Joliet LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - City of Joliet",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - City of Joliet",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:18Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:18Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - IGT",
     "status": "UP",
-    "timestamp": "2025-11-02T06:41:09Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:56:09Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - IGT",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "TruScale Infinite Storage - IGT",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:14Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:14Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "status": "UP",
-    "timestamp": "2025-11-02T06:37:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:52:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "service": "Check Aichelin LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:39Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:39Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:46Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:57:46Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Aichelin",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
     "service": "Check Green Datacenter AG LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:33Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:33Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:22Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:22Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Green Datacenter AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:38Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:38Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Boston",
     "status": "UP",
-    "timestamp": "2025-11-02T06:38:44Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:53:44Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Boston",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:36Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:36Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Boston",
     "service": "Check NEU Boton LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:20Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:20Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Boston",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:43Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:43Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Marlborough",
     "status": "UP",
-    "timestamp": "2025-11-02T06:48:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Marlborough",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:54Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:54Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Marlborough",
     "service": "Check NEU Marlborough LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:29Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:29Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  Northeastern - Marlborough",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:45Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:45Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  ZKW Group",
     "status": "UP",
-    "timestamp": "2025-11-02T06:39:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:54:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  ZKW Group",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:00Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:00Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  ZKW Group",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS -  ZKW Group",
     "service": "Check ZKW LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - HALLAG - St Johann",
     "status": "UP",
-    "timestamp": "2025-11-02T06:51:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - HALLAG - St Johann",
     "service": "Check HALLAG - St Johann LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:46:32Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:32Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - HALLAG - St Johann",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:02Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:01:02Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - HALLAG - St Johann",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:23Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:23Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - POLO Motorrad und Sportswear Gmbh",
     "status": "UP",
-    "timestamp": "2025-11-02T06:41:41Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:56:41Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - POLO Motorrad und Sportswear Gmbh",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:03Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:03Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - POLO Motorrad und Sportswear Gmbh",
     "service": "Check POLO Motorrad und Sportswear Gmbh LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:45:49Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:49Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - POLO Motorrad und Sportswear Gmbh",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:44:19Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:04:19Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - Sauber Motorsports AG",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:28Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:28Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - Sauber Motorsports AG",
     "service": "Check Mailflow",
     "status": "OK",
-    "timestamp": "2025-11-02T06:43:47Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:47Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - Sauber Motorsports AG",
     "service": "Check SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:24Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:58:24Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "VMIAAS - Sauber Motorsports AG",
     "service": "Check Sauber Motorsports AG LXCA",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:21Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:00:21Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "status": "UP",
-    "timestamp": "2025-11-02T06:40:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T06:55:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "Current Load",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:42Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:42Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "Current Users",
     "status": "OK",
-    "timestamp": "2025-11-02T06:47:57Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:02:57Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "PING",
     "status": "OK",
-    "timestamp": "2025-11-02T06:52:04Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:07:04Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "Root Partition",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:30Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:30Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "SSH",
     "status": "OK",
-    "timestamp": "2025-11-02T06:48:03Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:03:03Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "Swap Usage",
     "status": "OK",
-    "timestamp": "2025-11-02T06:51:05Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:06:05Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   },
   {
     "device": "localhost",
     "service": "Total Processes",
     "status": "OK",
-    "timestamp": "2025-11-02T06:50:31Z",
-    "seen_at": "2025-11-02T06:52:23.866249Z"
+    "timestamp": "2025-11-02T07:05:31Z",
+    "seen_at": "2025-11-02T07:07:23.987694Z"
   }
 ]
